@@ -1,1 +1,2 @@
 # Car-Rental-Application
+The car rental system will be a distributed 3-tier web-based application developed using Java, EJB, Servlets, Azure MySQL DB, and Apache NetBeans IDE with Glassfish Server. The core of this application will comprise one or several enterprise beans and java servlets that perform the application’s business operations and encapsulate the business logic. Other parts, such as the JSP, complement the EJB architecture to provide functions such as presentation logic and client interaction control logic.
